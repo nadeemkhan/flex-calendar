@@ -19,7 +19,7 @@ Add to index.html:
 
 ```html
 <link rel="stylesheet" href="bower_components/flex-calendar.css">
-<script type="text/javascript" src="bower_components/angular-translate/angular-translate.min.js.js"></script>
+<script type="text/javascript" src="bower_components/angular-translate/angular-translate.min.js"></script>
 <script type="text/javascript" src="bower_components/flex-calendar.js"></script>
 ```
 
